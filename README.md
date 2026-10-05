@@ -150,17 +150,7 @@ It also demonstrates the **Saga Pattern** for coordinating distributed workflows
 
 **C · GCC · Tokenization · Parsing · Semantic Analysis · Symbol Tables**
 
-A lightweight parser and interpreter developed in C for a custom integer-based programming language.
-
-The project demonstrates fundamental compiler and programming-language concepts including:
-
-- Lexical analysis
-- Tokenization
-- Syntax checking
-- Semantic validation
-- Symbol-table management
-- Expression evaluation
-- Error detection and reporting
+A lightweight parser and interpreter for a custom integer-based language. It performs lexical analysis, syntax checking, semantic validation, symbol-table management, expression evaluation, and error reporting.
 
 [View Repository →](https://github.com/Sewmini-2003/c-mini-parser)
 
@@ -182,7 +172,7 @@ The project demonstrates fundamental compiler and programming-language concepts 
 
 - Automated web testing with **Playwright**
 - Test case design and software testing fundamentals
-- Java and **Spring Boot** development
+- Java and Spring Boot development
 - RESTful API development and testing
 - Full-stack web application development
 - React and modern frontend development
