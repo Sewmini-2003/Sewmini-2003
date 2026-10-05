@@ -33,7 +33,7 @@ I have worked with technologies including **JavaScript, Kotlin, React, Java, Spr
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,kotlin,java,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,kotlin,java,php,python" alt="Languages" />
 </p>
 
 `C` · `C++` · `JavaScript` · `Kotlin` ·  `Java` · `PHP` · `Python` · `SQL`
