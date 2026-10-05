@@ -49,10 +49,10 @@ I have worked with technologies including **JavaScript, Kotlin, React, Java, Spr
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=php,spring" alt="Backend" />
 </p>
 
-`Spring Boot` · `Spring Data JPA` · `Hibernate` · `Node.js` · `Express.js` · `REST APIs` · `JWT` · `Socket.IO`
+`PHP` . `Spring Boot` · `Spring Data JPA` · `Hibernate` ·  `REST APIs` · `JWT` · `Socket.IO`
 
 ### Databases & Messaging
 
